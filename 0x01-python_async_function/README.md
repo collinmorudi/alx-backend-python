@@ -1,6 +1,6 @@
-## README.md
+# Python Async Functions
 
-### Project Overview
+## Project Overview
 
 This project is designed to demonstrate the use of asynchronous programming in Python, specifically focusing on the `async` and `await` syntax, the `asyncio` library, and the `random` module. The project is part of the ALX Backend Python course and is hosted in the `alx-backend-python` GitHub repository under the `0x01-python_async_function` directory.
 
